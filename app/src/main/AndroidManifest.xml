@@ -12,7 +12,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".PassingObj"></activity>
+        <activity android:name=".Callback"></activity>
+        <activity android:name=".PassingObj" />
         <activity android:name=".PassingData" />
         <activity
             android:name=".MoveActivity"
